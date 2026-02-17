@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d215MzJ5NmV2a3g2NjlxOWZ5eG45eXBpMjEwNzI2dXRvZWU3b2JtYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/giphy.gif" height="500px"></p>
 
-# 🌐 Contact me:
+# <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjRibTQzeTVweGo2bzFzZTdndDVwMW5semc2bGMxandjc3ExZGxtMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JQqNiVhYXanL4yEw1Y/giphy.gif" height="35px"> Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismael-da-palma-fernandez-968538294) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ismaeldpf2001@gmail.com) 
 
 <br>
