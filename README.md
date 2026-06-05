@@ -21,13 +21,3 @@
 
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjR1aHkzb3ZycW4wMXFyMGV0bzVwMzkyOTljNzFmb3E0N2JjamFjNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" height="35px"> Others:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-<br>
-
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5mb2l3YjRkNWMwenE4Y3h6ZjV3c3Ixb3J6OGc4cGpnNmp6emJwNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/PBo18KBOkMqbRBhOXa/giphy.gif" height="35px"> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Conardium&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Conardium&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Conardium&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Conardium&icon=0&color=0)](https://visitcount.itsvg.in)
